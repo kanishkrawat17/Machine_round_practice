@@ -1,0 +1,53 @@
+.container-box {
+  height: 30vh;
+  width: 50vw;
+  position: absolute;
+}
+
+.box {
+  height: 100%;
+  width: 20%;
+  border: 1px solid;
+}
+
+.color {
+  height: 100%;
+  width: 20%;
+  border: 1px solid;
+}
+.blue {
+  background: blue;
+}
+.yellow {
+  background: yellow;
+}
+.red {
+  background: red;
+}
+.black {
+  background: black;
+}
+.pink {
+  background: pink;
+}
+
+.colors {
+ 
+  height: 48%;
+  width: 98%;
+  display: flex;
+  position: absolute;
+  top: 366px;
+
+  display: flex;
+  position: absolute;
+    top: 366px;
+}
+
+.boxes {
+  height: 49%;
+  width: 98%;
+  display: flex;
+  flex-flow: row wrap;
+  position: relative;
+}
